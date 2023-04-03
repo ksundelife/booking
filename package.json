@@ -5,10 +5,7 @@
   "description": "Личный проект «Кексобукинг» от HTML Academy",
   "repository": {
     "type": "git",
-    "url": "git@github.com:htmlacademy-javascript/1080203-keksobooking-27.git"
-  },
-  "bugs": {
-    "url": "https://github.com/htmlacademy-javascript/1080203-keksobooking-27/issues"
+    "url": "git@github.com:ksundelife/booking.git"
   },
   "devDependencies": {
     "browser-sync": "2.27.10",
